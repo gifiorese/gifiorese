@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Giovanna Fiorese
 
 - 🔭 Hoje estudo sobre back-end
-- 🌱 Aprendendo Python e SQL
+- 🌱 Aprendendo Python, SQL e Salesforce
 - 😄 Pronomes: ela/dela
 
 <div align="center">
