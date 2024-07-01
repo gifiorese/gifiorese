@@ -15,7 +15,7 @@
   <p>IDE:</p>
   <img align="center" alt="Gi-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
   <img align="center" alt="Gi-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Gi-Kaggle" height="30" width="40" >
+  <img align="center" alt="Gi-Kaggle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg">
 </div>
 
 
