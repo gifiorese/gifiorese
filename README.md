@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Giovanna Fiorese
 
-- 🔭 Hoje estudo sobre fullstack
-- 🌱 Aprendendo Python, Ruby on Rails e Salesforce
+- 🔭 Hoje estudo sobre análise de dados
+- 🌱 Aprendendo Python, R e Spark
 - 😄 Pronomes: ela/dela
 
 <div align="center">
