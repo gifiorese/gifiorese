@@ -15,14 +15,26 @@
   <p>IDE:</p>
   <img align="center" alt="Gi-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
   <img align="center" alt="Gi-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Gi-Kaggle" height="30" width="40" >
 </div>
 
 
 <div style="display: inline_block"><br>
   <p>Análise de dados:</p>
   <img align="center" alt="Gi-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Gi-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Gi-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Gi-Numpy" height="30" width="40" >
+  <img align="center" alt="Gi-Spark" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg">
+  <img align="center" alt="Gi-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="Gi-Keras" height="30" width="40" >
+  <img align="center" alt="Gi-Pytorch" height="30" width="40" >
+  <img align="center" alt="Gi-Tensorflow" height="30" width="40" >
+  <img align="center" alt="Gi-Selenium" height="30" width="40" >
+  <img align="center" alt="Gi-Matplotlib" height="30" width="40" >
+  <img align="center" alt="Gi-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Gi-MicrosoftSQLServer" height="30" width="40" >
+  <img align="center" alt="Gi-Figma" height="30" width="40" >
+  <img align="center" alt="Gi-Hadoop" height="30" width="40" >
 </div>
 
 
