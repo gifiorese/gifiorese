@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Giovanna Fiorese
 
 - 🔭 Hoje atuo com análise e ciência de dados
-- 🌱  Atuo com Python e SQL 
+- 🌱  Atuo com Python e SQL
 - 😄 Pronomes: ela/dela
 
 <div align="center">
@@ -37,18 +37,9 @@
   <img align="center" alt="Gi-Hadoop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg">
 </div>
 
-
-<div style="display: inline_block"><br>
-  <p>Outras linguagens:</p>
-  <img align="center" alt="Gi-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Gi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gi-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-</div>
-
 ## Contatos  
   
 <div> 
-  <a href = "mailto:giovannafioresei@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:giovannafiorese@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/giovanna-galdi-fiorese-53b648195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
