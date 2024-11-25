@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Giovanna Fiorese
 
-- 🔭 Hoje estudo sobre análise de dados
-- 🌱 Aprendendo Python, R e Spark
+- 🔭 Hoje atuo com análise e ciência de dados
+- 🌱  Atuo com Python e SQL 
 - 😄 Pronomes: ela/dela
 
 <div align="center">
